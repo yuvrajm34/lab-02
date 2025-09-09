@@ -48,7 +48,6 @@ Here are some screenshots from an example application that demonstrate the requi
 ## How to submit your Lab 2
 
 > [!CAUTION]
-
 > Make sure to commit **and** push your code to the GitHub repository before the deadline!
 
 > Make sure you have updated `README.md` with **your name** and **CCID** (Not your student number).
