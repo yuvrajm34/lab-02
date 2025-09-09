@@ -52,4 +52,4 @@ Here are some screenshots from an example application that demonstrate the requi
 
 > Make sure you have updated `README.md` with **your name** and **CCID** (Not your student number).
 
-> Once you submitted, please go to [Canvas](https://canvas.ualberta.ca/) and submit **your Lab 2 GitHub repository link**.
+> Once you completed, please go to [Canvas](https://canvas.ualberta.ca/) and submit **your Lab 2 GitHub repository link**.
