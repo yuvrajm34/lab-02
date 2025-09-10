@@ -1,4 +1,4 @@
-# CMPUT 301 W25 - Lab 2: Android Basics
+ # CMPUT 301 W25 - Lab 2: Android Basics
 
 ## Contents
 
